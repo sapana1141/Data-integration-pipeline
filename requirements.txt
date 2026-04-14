@@ -1,0 +1,9 @@
+psycopg2-binary
+requests
+mysql-connector-python
+gspread
+oauth2client
+hdfs
+python-dotenv
+google-api-python-client
+pandas
