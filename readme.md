@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 This project is a **data integration pipeline** that extracts data from multiple sources and loads it into a PostgreSQL database.
 
