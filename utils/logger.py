@@ -1,27 +1,4 @@
 
-# import logging
-
-# def get_logger():
-
-#     logger = logging.getLogger("pipeline")
-
-#     if not logger.handlers:
-
-#         logger.setLevel(logging.INFO)
-
-#         handler = logging.FileHandler("pipeline.log")
-
-#         formatter = logging.Formatter(
-#             "%(asctime)s | %(levelname)s | %(message)s"
-#         )
-
-#         handler.setFormatter(formatter)
-
-#         logger.addHandler(handler)
-
-#     return logger
-
-
 import logging
 from logging.handlers import RotatingFileHandler
 
